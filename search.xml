@@ -20,6 +20,17 @@
     
     
     <entry>
+      <title></title>
+      <link href="/404.html"/>
+      <url>/404.html</url>
+      
+        <content type="html"><![CDATA[<script type="text/javascript" src="//qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js" charset="utf-8" homePageUrl="https://XRRRRcode.github.io" homePageName="回到我的主页"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -31,11 +42,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/404.html"/>
-      <url>/404.html</url>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<script type="text/javascript" src="//qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js" charset="utf-8" homePageUrl="https://XRRRRcode.github.io" homePageName="回到我的主页"></script>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
