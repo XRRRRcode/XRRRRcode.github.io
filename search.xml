@@ -20,6 +20,17 @@
     
     
     <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/404.html"/>
       <url>/404.html</url>
@@ -45,17 +56,6 @@
       <title>about</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
